@@ -1,3 +1,8 @@
+/*
+	James DiStefano
+	Piaxuan Pan
+*/
+
 package lab1;
 import java.util.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
