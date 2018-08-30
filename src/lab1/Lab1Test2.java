@@ -1,3 +1,8 @@
+/*
+	James DiStefano
+	Piaxuan Pan
+*/
+
 package lab1;
 
 import static org.junit.Assert.*;
